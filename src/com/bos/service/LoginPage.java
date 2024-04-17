@@ -131,7 +131,7 @@ public class LoginPage extends JFrame {
 		h1.setBounds(119, 20, 376, 42);
 		headerPanel.add(h1);
 
-		JLabel h2 = new JLabel("BANK OF SOLAPUR");
+		JLabel h2 = new JLabel("BANK OF AMRAVATI");
 		h2.setVerticalTextPosition(SwingConstants.TOP);
 		h2.setVerticalAlignment(SwingConstants.TOP);
 		h2.setHorizontalTextPosition(SwingConstants.LEFT);
